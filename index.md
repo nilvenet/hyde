@@ -3,8 +3,6 @@ layout: page
 title: Introduction
 ---
 
-# Introductiona
-
 I am a post-doctoral researcher at Bergamo University,
 
 I am currently working on developping new methods for statistical learning of nonlinear data, giving theoretical garanties, and assessing numerical performances on real data for these methods.
