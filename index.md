@@ -18,7 +18,7 @@ I am currently working on Spatiotemporal Statistics for global scale climate dat
 
 ## Publications
 
-* A Gaussian Process Regression Model for Distribution Inputs, with François Bachoc, Fabrice Gamboa and Jean-Michel Loubès, _IEEE Transactions in Information Theory_ [[preprint on arXiv]](https://arxiv.org/pdf/1701.09055.pdf)
+* A Gaussian Process Regression Model for Distribution Inputs, with François Bachoc, Fabrice Gamboa and Jean-Michel Loubès, _IEEE Transactions on Information Theory_ [[preprint on arXiv]](https://arxiv.org/pdf/1701.09055.pdf)
 
 *  On the existence of fractional Brownian fields indexed by manifolds with closed geodesics [[preprint on arXiv]](https://arxiv.org/pdf/1612.05984.pdf)
 
