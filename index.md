@@ -3,6 +3,6 @@ layout: page
 title: Introduction
 ---
 
-I am a post-doctoral researcher at Bergamo University,
+I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/).
 
-I am currently working on developping new methods for statistical learning of nonlinear data, giving theoretical garanties, and assessing numerical performances on real data for these methods.
+I am currently working on Spatiotemporal Statistics for globale scale climate data, with [Alessandro Fassò](https://www.unibg.it/pers/?alessandro.fasso) and [Francesco Finazzi](https://www.unibg.it/pers/?francesco.finazzi).
