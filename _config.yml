@@ -8,19 +8,29 @@ relative_permalinks: false
 
 # Setup
 title:            Nil Venet
-tagline:          'A Jekyll theme'
+tagline:          'Statistics at Bergamo University'
 description:      'Statistics researcher at Bergamo University'
 #url:              http://hyde.getpoole.com
-#baseurl:          /hyde
+baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Nil Venet'
   url:            https://twitter.com/mdo
 
-paginate:         5
+#paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/nilvenet.github.io
+
+#gems:
+#  - jekyll-last-modified-at
+
+#coauthors url
+bachoc:	   	https://www.math.univ-toulouse.fr/~fbachoc/
+loubes:		https://perso.math.univ-toulouse.fr/loubes/
+gamboa:		https://www.math.univ-toulouse.fr/~gamboa/
+fasso:		https://www.unibg.it/pers/?alessandro.fasso	
+finazzi:	https://www.unibg.it/pers/?francesco.finazzi
