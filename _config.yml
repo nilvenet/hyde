@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Nil Venet
 tagline:          'Statistics at Bergamo University'
 description:      'Statistics researcher at Bergamo University'
-#url:              http://hyde.getpoole.com
+url:              https://nilvenet.github.io/
 baseurl:          /
 
 author:
