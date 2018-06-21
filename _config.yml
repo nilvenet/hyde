@@ -11,7 +11,7 @@ title:            Nil Venet
 tagline:          'Statistics at Bergamo University'
 description:      'Statistics researcher at Bergamo University'
 url:              https://nilvenet.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Nil Venet'
