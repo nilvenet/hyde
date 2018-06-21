@@ -15,7 +15,7 @@ baseurl:          ""
 
 author:
   name:           'Nil Venet'
-  url:            https://nilvenet.github.io
+  url:            "https://nilvenet.github.io"
 
 #paginate:         5
 
