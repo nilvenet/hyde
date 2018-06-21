@@ -2,18 +2,18 @@
 layout: default
 title: Home
 ---
-## Introduction
+### Introduction
 
 I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò](https://www.unibg.it/pers/?alessandro.fasso) and [Francesco Finazzi](https://www.unibg.it/pers/?francesco.finazzi).
 
-## Research interests
+### Research interests
 
 * Spatiotemporal modelling for climate data
 * Geometry and statistics
 * Statistical learning of nonlinear data
 * Constructions of kernels for Gaussian modelling and machine learning
 
-## Publications
+### Publications
 
 * A Gaussian Process Regression Model for Distribution Inputs, with François Bachoc, Fabrice Gamboa and Jean-Michel Loubès, _IEEE Transactions on Information Theory_ [[preprint on arXiv]](https://arxiv.org/pdf/1701.09055.pdf)
 
@@ -21,6 +21,6 @@ I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), w
 
 *  Nonexistence of fractional Brownian fields indexed by cylinders [[preprint on arXiv]](https://arxiv.org/pdf/1612.05983.pdf)
 
-## I look like this
+### I look like this
 
 ![I look like that](/pictures/me.jpg){:class="img-responsive"}
