@@ -7,6 +7,8 @@ title: Home
 
 I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò](https://www.unibg.it/pers/?alessandro.fasso) and [Francesco Finazzi](https://www.unibg.it/pers/?francesco.finazzi).
 
+![Ilooklikethat](/pictures/me.jpg){:class="img-responsive"}
+
 ## Research interests
 
 * Spatiotemporal modelling for climate data
