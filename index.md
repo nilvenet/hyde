@@ -2,9 +2,6 @@
 layout: default
 title: Home
 ---
-
-![I look like that](/pictures/me.jpg){:class="img-responsive"}
-
 ## Introduction
 
 I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò](https://www.unibg.it/pers/?alessandro.fasso) and [Francesco Finazzi](https://www.unibg.it/pers/?francesco.finazzi).
@@ -23,3 +20,7 @@ I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), w
 *  On the existence of fractional Brownian fields indexed by manifolds with closed geodesics [[preprint on arXiv]](https://arxiv.org/pdf/1612.05984.pdf)
 
 *  Nonexistence of fractional Brownian fields indexed by cylinders [[preprint on arXiv]](https://arxiv.org/pdf/1612.05983.pdf)
+
+## I look like this
+
+![I look like that](/pictures/me.jpg){:class="img-responsive"}
