@@ -10,12 +10,12 @@ relative_permalinks: false
 title:            Nil Venet
 tagline:          'Statistics at Bergamo University'
 description:      'Statistics researcher at Bergamo University'
-url:              https://nilvenet.github.io/
+url:              https://nilvenet.github.io
 baseurl:          /
 
 author:
   name:           'Nil Venet'
-  url:            https://twitter.com/mdo
+  url:            https://nilvenet.github.io
 
 #paginate:         5
 
