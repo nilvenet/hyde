@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
+
+![I look like that](/pictures/me.jpg){:class="img-responsive"}
 
 ## Introduction
 
 I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò](https://www.unibg.it/pers/?alessandro.fasso) and [Francesco Finazzi](https://www.unibg.it/pers/?francesco.finazzi).
-
-![Ilooklikethat](/pictures/me.jpg){:class="img-responsive"}
 
 ## Research interests
 
