@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Introductiona
+# Introduction
 
 I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò]({{ site.fasso }}) and [Francesco Finazzi]({{ site.finazzi }}).
 
