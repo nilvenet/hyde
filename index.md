@@ -27,7 +27,7 @@ I am a post-doctoral researcher at [Bergamo University](https://en.unibg.it/), w
 
 You can find my PhD thesis [here](http://thesesups.ups-tlse.fr/3658/). Articles 1. and 2. above contains the same results with better motivation and writing, while the thesis introduces background material.
 
-<!--- Slides from the defense are [here](). -->
+Slides from the defense are [here](/assets/pdf/slides_Venet_PhD2016.pdf).
 
 ## Last Events
 
@@ -40,4 +40,4 @@ You can find my PhD thesis [here](http://thesesups.ups-tlse.fr/3658/). Articles 
 
 I am in the foreground, in the background is Mount Batur.
 
-![I look like that](/pictures/me.jpg){:class="img-responsive"}
+![I look like that](/assets/pictures/me.jpg){:class="img-responsive"}
