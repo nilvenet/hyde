@@ -15,12 +15,18 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 
 ## Publications
 
-0. A Gaussian Process Regression Model for Distribution Inputs, with [F. Bachoc]({{ site.bachoc }}), [F. Gamboa]({{ site.gamboa }}) and [J.-M. Loubès]({{ site.loubes }}), to appear in _IEEE Transactions on Information Theory_ [[preprint on arXiv]](https://arxiv.org/pdf/1701.09055.pdf)
-
-0. On the existence of fractional Brownian fields indexed by manifolds with closed geodesics [[preprint on arXiv]](https://arxiv.org/pdf/1612.05984.pdf)
-
-0. Nonexistence of fractional Brownian fields indexed by cylinders [[preprint on arXiv]](https://arxiv.org/pdf/1612.05983.pdf)
-{: reversed="reversed"}
+<ol>
+	<li value="3">A Gaussian Process Regression Model for Distribution Inputs<br>
+	with <a href="{{ site.bachoc }}">F. Bachoc</a>,  <a href="{{ site.gamboa }}">F. Gamboa</a>, and  <a href="{{ site.loubes }}">J.-M. Loubes</a> <br>
+	    <em>IEEE Transactions on Information Theory, to appear</em> <a href="https://arxiv.org/pdf/1701.09055.pdf">[arXiv preprint]</a>
+	</li>
+	<li value="2">On the existence of fractional Brownian fields indexed by manifolds with closed geodesics<br>
+	    <em>Submitted</em> <a href="https://arxiv.org/pdf/1612.05984.pdf">[arXiv preprint]</a>
+	</li>
+	<li value="1">Nonexistence of fractional Brownian fields indexed by cylinders<br>
+	    <em>Submitted</em> <a href="https://arxiv.org/pdf/1612.05983.pdf">[arXiv preprint]</a>
+	</li>
+</ol>
 
 ## Thesis
 
