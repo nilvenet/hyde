@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 # Introduction
 
 I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò]({{ site.fasso }}) and [Francesco Finazzi]({{ site.finazzi }}).
@@ -12,7 +11,7 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 * Spatiotemporal modelling for climate data
 * Geometry and statistics
 * Statistical learning of nonlinear data
-* Constructions of kernels for Gaussian modelling and machine learning
+* Construction of kernels for Gaussian modelling and machine learning
 
 ## Publications
 
