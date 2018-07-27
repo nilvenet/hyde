@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Introductiona
+# Introduction
 
 I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò]({{ site.fasso }}) and [Francesco Finazzi]({{ site.finazzi }}).
 
@@ -45,4 +45,4 @@ Slides from the defense are [here](/assets/pdf/slides_Venet_PhD2016.pdf).
 
 I am in the foreground, in the background is Mount Batur.
 
-![I look like that](/assets/pictures/me.jpg){:class="img-responsive"}
+![I look like that](/assets/pictures/me.jpg){:class="img-responsive" width="600px"}
