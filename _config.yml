@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Nil Venet
 tagline:          'Statistics at Bergamo University'
-description:      'Statistics researcher at Bergamo University'
+description:      'Researcher in Statistics at Bergamo University'
 url:              https://nilvenet.github.io
 baseurl:          ""
 
