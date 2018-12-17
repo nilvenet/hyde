@@ -24,7 +24,7 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 	    <em>Soon resubmitted</em> <a href="https://arxiv.org/pdf/1612.05984.pdf">[arXiv preprint]</a>
 	</li>
 	<li value="1">Nonexistence of fractional Brownian fields indexed by cylinders<br>
-	    <em>Electronic Journal of Probability</em> <a href="https://arxiv.org/pdf/1612.05983.pdf">[arXiv preprint]</a>
+	    <em>Electronic Journal of Probability, to appear</em> <a href="https://arxiv.org/pdf/1612.05983.pdf">[arXiv preprint]</a>
 	</li>
 </ol>
 
