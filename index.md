@@ -21,10 +21,10 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 	    <em>IEEE Transactions on Information Theory, to appear</em> <a href="https://arxiv.org/pdf/1701.09055.pdf">[arXiv preprint]</a>
 	</li>
 	<li value="2">On the existence of fractional Brownian fields indexed by manifolds with closed geodesics<br>
-	    <em>Submitted</em> <a href="https://arxiv.org/pdf/1612.05984.pdf">[arXiv preprint]</a>
+	    <em>Soon resubmitted</em> <a href="https://arxiv.org/pdf/1612.05984.pdf">[arXiv preprint]</a>
 	</li>
 	<li value="1">Nonexistence of fractional Brownian fields indexed by cylinders<br>
-	    <em>Submitted</em> <a href="https://arxiv.org/pdf/1612.05983.pdf">[arXiv preprint]</a>
+	    <em>Electronic Journal of Probability</em> <a href="https://arxiv.org/pdf/1612.05983.pdf">[arXiv preprint]</a>
 	</li>
 </ol>
 
