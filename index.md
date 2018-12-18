@@ -36,10 +36,10 @@ Slides from the defense are [here](/assets/pdf/slides_Venet_PhD2016.pdf).
 
 ## Last Events
 
-- Jun. 2018: Conference of the International Society for Nonparametric Statistics, Salerno
-- Jul. 2017: European Meeting of Statisticians, Helsinki
-- May 2017: Journées de Statistique, Avignon
-- Dec. 2016: Latin American Congress of Probability and Statistics, San José
+- Jun. 2018: Conference of the International Society for Nonparametric Statistics, Salerno, Italy
+- Jul. 2017: European Meeting of Statisticians, Helsinki, Finland
+- May 2017: Journées de Statistique, Avignon, France
+- Dec. 2016: Latin American Congress of Probability and Statistics, San José, Costa Rica
 
 ## I look like this
 
