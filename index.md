@@ -34,6 +34,11 @@ You can find my PhD thesis [here](http://thesesups.ups-tlse.fr/3658/). Articles 
 
 Slides from the defense are [here](/assets/pdf/slides_Venet_PhD2016.pdf).
 
+## Upcoming Events
+
+- Jun. 2019 Conference Smart Statistics for Smart Applications, Milano, Italy
+- Aug. 2019: International Conference on Environmental Statistics, Kunming, China
+
 ## Last Events
 
 - Jun. 2018: Conference of the International Society for Nonparametric Statistics, Salerno, Italy
