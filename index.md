@@ -18,7 +18,7 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 <ol>
 	<li value="3">A Gaussian Process Regression Model for Distribution Inputs<br>
 	with <a href="{{ site.bachoc }}">F. Bachoc</a>,  <a href="{{ site.gamboa }}">F. Gamboa</a>, and  <a href="{{ site.loubes }}">J.-M. Loubes</a> <br>
-	    <em>IEEE Transactions on Information Theory, to appear</em> <a href="https://arxiv.org/pdf/1701.09055.pdf">[arXiv preprint]</a>
+	    <em>IEEE Transactions on Information Theory, 2018</em> < a href="https://ieeexplore.ieee.org/document/8066326> [article] <a href="https://arxiv.org/pdf/1701.09055.pdf">[arXiv preprint]</a>
 	</li>
 	<li value="2">On the existence of fractional Brownian fields indexed by manifolds with closed geodesics<br>
 	    <em>Soon resubmitted</em> <a href="https://arxiv.org/pdf/1612.05984.pdf">[arXiv preprint]</a>
