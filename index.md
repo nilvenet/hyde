@@ -35,7 +35,7 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 <ol>
 	<li value="2">An anisotropic model for global climate data<br>
 	N. Venet and <a href="{{ site.fasso }}">A. Fassò</a><br>
-	    <em>Invited specialized session at <a href="http://meetings3.sis-statistica.org/index.php/SIS2019/sis2019/">SIS2019, Smart Statistics for Smart Applications</a>, 2019</em> <a href="/assets/pdf/Venet_slides_SIS2019.pdf">[corresponding slides]</a>
+	    <em>Invited specialized session at <a href="http://meetings3.sis-statistica.org/index.php/SIS2019/sis2019/">SIS2019, Smart Statistics for Smart Applications</a>, 2019</em> <a href="/assets/pdf/Venet_slides_SIS2019.pdf">[slides]</a>
 	</li>
 	<li value="1">Modèles de régression gaussienne pour des distributions en entrée<br>
 	N. Venet, <a href="{{ site.bachoc }}">F. Bachoc</a>,  <a href="{{ site.gamboa }}">F. Gamboa</a>, and  <a href="{{ site.loubes }}">J.-M. Loubes</a> <br>
