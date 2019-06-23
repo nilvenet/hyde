@@ -51,11 +51,11 @@ Slides from the defense are [here](/assets/pdf/slides_Venet_PhD2016.pdf).
 
 ## Upcoming Events
 
-- Jun. 2019: Conference Smart Statistics for Smart Applications, Milano, Italy [[slides]](/assets/pdf/Venet_slides_SIS2019.pdf)
 - Aug. 2019: International Conference on Environmental Statistics, Kunming, China
 
 ## Last Events
 
+- Jun. 2019: Conference Smart Statistics for Smart Applications, Milano, Italy [[slides]](/assets/pdf/Venet_slides_SIS2019.pdf)
 - Jun. 2018: Conference of the International Society for Nonparametric Statistics, Salerno, Italy
 - Jul. 2017: European Meeting of Statisticians, Helsinki, Finland
 - May 2017: Journées de Statistique, Avignon, France
