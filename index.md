@@ -26,7 +26,7 @@ I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), wh
 	</li>
 	<li value="1">Nonexistence of fractional Brownian fields indexed by cylinders<br>
 	N. Venet<br>
-	    <em>Electronic Journal of Probability, to appear</em> <a href="https://arxiv.org/pdf/1612.05983.pdf">[arXiv preprint]</a>
+	    <em>Electronic Journal of Probability, 2019</em> <a href="https://projecteuclid.org/euclid.ejp/1562119475">[article]</a>
 	</li>
 </ol>
 
