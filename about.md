@@ -5,7 +5,7 @@ title: About
 
 ## Short bio
 
-- Sept. 2019 -- now: lecturer at Dublin City University
+- Sept. 2019 -- now: lecturer at *Dublin City University*
 - Nov. 2017 -- Oct. 2019: postdoc researcher at *Bergamo University*
 - Sept. -- Oct. 2017: temporary teacher and researcher at *Aix-Marseille University*
 - 2016 -- 2017: postdoc researcher at *CEA* and *Toulouse Mathematical Institute*
