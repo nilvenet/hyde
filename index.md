@@ -4,7 +4,7 @@ title: Home
 ---
 # Introduction
 
-I am a postdoctoral researcher at [Bergamo University](https://en.unibg.it/), where I am working on Spatiotemporal Statistics for global scale climate data, with [Alessandro Fassò]({{ site.fasso }}) and [Francesco Finazzi]({{ site.finazzi }}).
+I am a lecturer in Mathematical Sciences at [Dublin City University](https://www.dcu.ie/), where I am working on Spatiotemporal Statistics for global scale climate data.
 
 ## Research interests
 

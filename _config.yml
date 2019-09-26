@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            Nil Venet
-tagline:          'Statistics at Bergamo University'
-description:      'Researcher in Statistics at Bergamo University'
+tagline:          'Statistics at Dublin City University'
+description:      'Researcher in Statistics at Dublin City University'
 url:              https://nilvenet.github.io
 baseurl:          ""
 
