@@ -19,17 +19,27 @@ title: Teaching
    - [Tutorial 1](/assets/pdf/MS115/MS115_Tutorial_1.pdf)
    - [Solutions 1](/assets/pdf/MS115/MS115_Solutions_1.pdf)
    - [Tutorial 2](/assets/pdf/MS115/MS115_Tutorial_2.pdf)
+   - [Solutions 2](/assets/pdf/MS115/MS115_Solutions_2.pdf)
+   - [Tutorial 3](/assets/pdf/MS115/MS115_Tutorial_3.pdf)
    - [Lecture notes from last year, week 1](/assets/pdf/MS115/MS115_Notes_1_2018-19.pdf)
    - [Lecture notes from last year, week 2](/assets/pdf/MS115/MS115_Notes_2_2018-19.pdf)
+   - [Lecture notes from last year, week 3](/assets/pdf/MS115/MS115_Notes_3_2018-19.pdf)
+   - [Lecture notes from week 2, tuesday, logic](/assets/pdf/MS115/MS115_Notes_2_tue.pdf)
+   - [Lecture notes from week 2/3, sets](/assets/pdf/MS115/MS115_Notes_2_3_sets.pdf)
+   - [Lecture notes from week 3, sets, thursday](/assets/pdf/MS115/MS115_Notes_3_thu.pdf)
    
 ### MS221 -- Calculus of Several Variables
    - [Tutorial 1](/assets/pdf/MS221/MS221_Tutorial_1.pdf)
    - [Solutions 1](/assets/pdf/MS221/MS221_Solutions_1.pdf)
    - [Tutorial 2](/assets/pdf/MS221/MS221_Tutorial_2.pdf)
    - [Solutions 2](/assets/pdf/MS221/MS221_Solutions_2.pdf)
+   - [Tutorial 3](/assets/pdf/MS221/MS221_Tutorial_3.pdf)
    - [Lecture notes week 1](/assets/pdf/MS221/MS221_Notes_1.pdf)
+   - [Lecture notes week 2, end of vectors](/assets/pdf/MS221/MS221_Notes_2_vectors.pdf)
+   - [Lecture notes week 2 and 3, calculus of parametrized curves](/assets/pdf/MS221/MS221_Notes_2_3_curves.pdf)
 
 ### MS321 -- Introduction to Abstract Algebra
    - [Tutorial 1](/assets/pdf/MS321/MS321_Tutorial_1.pdf)
    - [Tutorial 2](/assets/pdf/MS321/MS321_Tutorial_2.pdf)
+   - [Tutorial 3](/assets/pdf/MS321/MS321_Tutorial_3.pdf)
    - [Full lecture notes from last year](/assets/pdf/MS321/MS321_Notes_2018-19.pdf)
