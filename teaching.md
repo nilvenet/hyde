@@ -34,6 +34,9 @@ title: Teaching
    - [Tutorial 2](/assets/pdf/MS221/MS221_Tutorial_2.pdf)
    - [Solutions 2](/assets/pdf/MS221/MS221_Solutions_2.pdf)
    - [Tutorial 3](/assets/pdf/MS221/MS221_Tutorial_3.pdf)
+   - [Solutions 3](/assets/pdf/MS221/MS221_Solutions_3.pdf)
+   - [Tutorial 4](/assets/pdf/MS221/MS221_Tutorial_4.pdf
+   - [Solutions 4](/assets/pdf/MS221/MS221_Solutions_4.pdf)
    - [Lecture notes week 1](/assets/pdf/MS221/MS221_Notes_1.pdf)
    - [Lecture notes week 2, end of vectors](/assets/pdf/MS221/MS221_Notes_2_vectors.pdf)
    - [Lecture notes week 2 and 3, calculus of parametrized curves](/assets/pdf/MS221/MS221_Notes_2_3_curves.pdf)
