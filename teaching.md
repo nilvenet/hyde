@@ -21,12 +21,21 @@ title: Teaching
    - [Tutorial 2](/assets/pdf/MS115/MS115_Tutorial_2.pdf)
    - [Solutions 2](/assets/pdf/MS115/MS115_Solutions_2.pdf)
    - [Tutorial 3](/assets/pdf/MS115/MS115_Tutorial_3.pdf)
+   - [Solutions 3](/assets/pdf/MS115/MS115_Solutions_3.pdf)
+   - [Tutorial 4](/assets/pdf/MS115/MS115_Tutorial_4.pdf)
+   - [Solutions 4](/assets/pdf/MS115/MS115_Solutions_4.pdf)
+   - [Tutorial 5](/assets/pdf/MS115/MS115_Tutorial_5.pdf)
+
    - [Lecture notes from last year, week 1](/assets/pdf/MS115/MS115_Notes_1_2018-19.pdf)
    - [Lecture notes from last year, week 2](/assets/pdf/MS115/MS115_Notes_2_2018-19.pdf)
    - [Lecture notes from last year, week 3](/assets/pdf/MS115/MS115_Notes_3_2018-19.pdf)
    - [Lecture notes from week 2, tuesday, logic](/assets/pdf/MS115/MS115_Notes_2_tue.pdf)
    - [Lecture notes from week 2/3, sets](/assets/pdf/MS115/MS115_Notes_2_3_sets.pdf)
    - [Lecture notes from week 3, sets, thursday](/assets/pdf/MS115/MS115_Notes_3_thu.pdf)
+   - [Lecture notes from last year, week 4](/assets/pdf/MS115/MS115_Notes_4_2018-19.pdf)
+   - [Lecture notes from last year, week 5](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
+
+
    
 ### MS221 -- Calculus of Several Variables
    - [Tutorial 1](/assets/pdf/MS221/MS221_Tutorial_1.pdf)
