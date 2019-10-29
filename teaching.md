@@ -49,6 +49,9 @@ title: Teaching
    - [Lecture notes week 1](/assets/pdf/MS221/MS221_Notes_1.pdf)
    - [Lecture notes week 2, end of vectors](/assets/pdf/MS221/MS221_Notes_2_vectors.pdf)
    - [Lecture notes week 2 and 3, calculus of parametrized curves](/assets/pdf/MS221/MS221_Notes_2_3_curves.pdf)
+   - [Lecture notes calculus of several variables 1](/assets/pdf/MS221/MS221_Notes_calculus_several_variables_1.pdf)
+   - [Lecture notes crash course in linear algebra](/assets/pdf/MS221/MS221_Notes_crash_course_LA.pdf)
+   - [Lecture notes calculus of several variables 2](/assets/pdf/MS221/MS221_Notes_calculus_several_variables_2.pdf)
 
 ### MS321 -- Introduction to Abstract Algebra
    - [Tutorial 1](/assets/pdf/MS321/MS321_Tutorial_1.pdf)
