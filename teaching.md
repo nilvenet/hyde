@@ -46,7 +46,9 @@ title: Teaching
    - [Solutions 4](/assets/pdf/MS221/MS221_Solutions_4.pdf)
 
    - [Lecture notes week 1](/assets/pdf/MS221/MS221_Notes_1.pdf)
-   - [Lecture notes week 2, end of vectors](/assets/pdf/MS221/MS221_Notes_2_vectors.pdf)
+   - [Lecture notes week 2, vectors 2](/assets/pdf/MS221/MS221_Notes_2_vectors.pdf)
+   - [IMPORTANT: missing until now, vectors 3](/assets/pdf/MS221/MS221_Notes_vectors_3.pdf)
+   - [IMPORTANT: mussing until now, determinant and cross product](/assets/pdf/MS221/MS221_Notes_cross_product.pdf)
    - [Lecture notes week 2 and 3, calculus of parametrized curves](/assets/pdf/MS221/MS221_Notes_2_3_curves.pdf)
    - [Lecture notes calculus of several variables 1](/assets/pdf/MS221/MS221_Notes_calculus_several_variables_1.pdf)
    - [Lecture notes crash course in linear algebra](/assets/pdf/MS221/MS221_Notes_crash_course_LA.pdf)
