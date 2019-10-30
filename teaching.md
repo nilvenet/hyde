@@ -80,7 +80,9 @@ title: Teaching
    - [IMPORTANT: missing until now, vectors 3](/assets/pdf/MS221/MS221_Notes_vectors_3.pdf)
    - [IMPORTANT: missing until now, determinant and cross product](/assets/pdf/MS221/MS221_Notes_cross_product.pdf)
    - [Lecture notes week 2 and 3, calculus of parametrized curves](/assets/pdf/MS221/MS221_Notes_2_3_curves.pdf)
+   - [IMPORTANT missing until now, but not on the test: Lecture notes, interlude 1: conics](/assets/pdf/MS221/MS221_Notes_conics.pdf)
    - [Lecture notes calculus of several variables 1](/assets/pdf/MS221/MS221_Notes_calculus_several_variables_1.pdf)
+   - [Lecture notes calculus of several variables 1, part 2](/assets/pdf/MS221/MS221_Notes_calculus_several_variables_1_2.pdf)
    - [Lecture notes crash course in linear algebra](/assets/pdf/MS221/MS221_Notes_crash_course_LA.pdf)
    - [Lecture notes calculus of several variables 2](/assets/pdf/MS221/MS221_Notes_calculus_several_variables_2.pdf)
 
