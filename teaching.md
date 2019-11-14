@@ -104,7 +104,7 @@ title: Teaching
    Solutions (most of the time not every questions):
    - [Solutions 1](/assets/pdf/MS321/MS321_Solutions_1.pdf)
    - [Solutions 2](/assets/pdf/MS321/MS321_Solutions_2.pdf)
-   - [Solutions 4](/assets/pdf/MS321/MS321_Solutions_4.pdf)
+   - [Solutions 4](/assets/pdf/MS321/MS321_Solutions_4Q3.pdf)
    - [Solutions 7](/assets/pdf/MS321/MS321_Solutions_7.pdf)
    - [Solutions 8](/assets/pdf/MS321/MS321_Solutions_8.pdf)
    - [Solutions 9](/assets/pdf/MS321/MS321_Solutions_9.pdf)
