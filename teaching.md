@@ -46,13 +46,13 @@ title: Teaching
    - [Lecture notes from week 3, sets, thursday](/assets/pdf/MS115/MS115_Notes_3_thu.pdf)
    - [Lecture notes from last year, week 4](/assets/pdf/MS115/MS115_Notes_4_2018-19.pdf)
    - [Lecture notes from last year, week 5](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 6](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 7](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 8](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 9](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 10](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 11](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
-   - [Lecture notes from last year, week 12](/assets/pdf/MS115/MS115_Notes_5_2018-19.pdf)
+   - [Lecture notes from last year, week 6](/assets/pdf/MS115/MS115_Notes_6_2018-19.pdf)
+   - [Lecture notes from last year, week 7](/assets/pdf/MS115/MS115_Notes_7_2018-19.pdf)
+   - [Lecture notes from last year, week 8](/assets/pdf/MS115/MS115_Notes_8_2018-19.pdf)
+   - [Lecture notes from last year, week 9](/assets/pdf/MS115/MS115_Notes_9_2018-19.pdf)
+   - [Lecture notes from last year, week 10](/assets/pdf/MS115/MS115_Notes_10_2018-19.pdf)
+   - [Lecture notes from last year, week 11](/assets/pdf/MS115/MS115_Notes_11_2018-19.pdf)
+   - [Lecture notes from last year, week 12](/assets/pdf/MS115/MS115_Notes_12_2018-19.pdf)
 
 
 
